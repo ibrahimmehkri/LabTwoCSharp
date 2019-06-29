@@ -1,0 +1,11 @@
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/bin/Debug/netcoreapp2.2/LabOne.deps.json
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/bin/Debug/netcoreapp2.2/LabOne.runtimeconfig.json
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/bin/Debug/netcoreapp2.2/LabOne.runtimeconfig.dev.json
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/bin/Debug/netcoreapp2.2/LabOne.dll
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/bin/Debug/netcoreapp2.2/LabOne.pdb
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/obj/Debug/netcoreapp2.2/LabOne.csprojAssemblyReference.cache
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/obj/Debug/netcoreapp2.2/LabOne.csproj.CoreCompileInputs.cache
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/obj/Debug/netcoreapp2.2/LabOne.AssemblyInfoInputs.cache
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/obj/Debug/netcoreapp2.2/LabOne.AssemblyInfo.cs
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/obj/Debug/netcoreapp2.2/LabOne.dll
+/Users/ibrahimmehkri/Documents/C#/csharpPractice/LabOne/obj/Debug/netcoreapp2.2/LabOne.pdb
